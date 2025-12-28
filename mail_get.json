@@ -1,0 +1,29 @@
+[
+    {
+        "email": "hoanglapen@gmail.com",
+        "name": "Hoàng Lập", 
+        "order_no": 1,
+        "problem": "Bể màn hình",
+        "amount": "27000000",
+        "product": "iPhone 17",
+        "name_of_company": "Apple Store"
+    },
+    {
+        "email":"hungngo120802@gmail.com",
+        "name": "Ngô Hưng", 
+        "order_no": 2,
+        "problem": "Thiếu phụ kiện",
+        "amount": "500000",
+        "product": "AirPods Pro",
+        "name_of_company": "Apple Store"
+    },
+    {
+        "email": "khanhvy071212@gmail.com",
+        "name": "Khánh Vy", 
+        "order_no": 3,
+        "problem": "Giao hàng trễ",
+        "amount": "100000",
+        "product": "Cáp sạc",
+        "name_of_company": "Apple Store"
+    }
+]
